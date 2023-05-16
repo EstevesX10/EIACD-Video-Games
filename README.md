@@ -16,18 +16,14 @@ De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda 
  
  Após a execução deste comando deverá copiar o URL (exemplo abaixo) e colar num separador web:
  
-<!-- <div align="center">
-    <img src="Images_Read_Me/Level_Buttons.png">
-</div> -->
+<div align="center">
+    <img src="Images/Anaconda_Prompt_URL.png">
+</div>
 
  Posteriormente, deverá aceder ao diretório em que o ficheiro está armazenado e, portantom, abri-lo.
  
 Caso não funcione, verifique que possui todos os pré-requisitos mencionados **[anteriormente](#pré-requisitos)** e tente novamente. 
-Se o problema se mantiver, tente executar o seguinte comando no seu terminal:
- 
- ``` python3 -m Game.py ```
- 
- Por fim, se o erro persistir não hesite em **[contactar-nos](#considerações-finais)**.
+Por fim, se o problema persistir não hesite em **[contactar-nos](#considerações-finais)**.
 
 ## XXX
 
