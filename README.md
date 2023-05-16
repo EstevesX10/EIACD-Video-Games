@@ -14,13 +14,14 @@ De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda 
 
  ```jupyter notebook```
  
- Após a execução deste comando deverá copiar o URL (exemplo abaixo) e colar num separador web:
+Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e colar num separador web:
  
 <div align="center">
     <img src="Images/Anaconda_Prompt_URL.png">
 </div>
 
- Posteriormente, deverá aceder ao diretório em que o ficheiro está armazenado e, portantom, abri-lo.
+Desta forma, terá de aceder ao diretório onde o ficheiro está armazenado e posteriormente abri-lo.
+De seguida de forma a executar as várias células presentes no documento, poderá executar ```Shift + Enter``` com o intuito de corrê-las de forma sequencial. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do jupyter notebook que dispõe uma panóplia de ações para manipulação do fluxo de execução do programa.
  
 Caso não funcione, verifique que possui todos os pré-requisitos mencionados **[anteriormente](#pré-requisitos)** e tente novamente. 
 Por fim, se o problema persistir não hesite em **[contactar-nos](#considerações-finais)**.
