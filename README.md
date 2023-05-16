@@ -1,8 +1,14 @@
 # EIACD Grupo D - Video Games
 
 ## Introdução
-O **Klotski** trata-se de um jogo de quebra-cabeças que envolve mover uma ou mais peças num tabuleiro (5x4) de forma a alcançar um objetivo. Neste jogo, o objetivo é mover a peça vermelha ao longo do tabuleiro até alcançar a sua posição final. As peças podem apresentar tanto um formato como um tamanho variáveis, dispondo, assim, de  imensas configurações possíveis para o tabuleiro.
-Por fim, este jogo dispõe de vários níveis de dificuldade de forma a estimular o jogador e simultaneamente proporcionar uma experiência mais desafiante.
+Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletrónicos**, torna-se importante, para uma empresa, **prever** o sucesso adjacente ao lançamento do seu produto no mercado. Um dos principais aspetos a ter em conta nesta previsão são as **reviews dos consumidores**. Deste modo, obtém-se o seguinte **problema de classificação**: 
+
+```Qual o user_rating do vídeo jogo?```
+
+De forma a resolvê-lo, foi-nos fornecido um **dataset** com dados de cerca de 6000 video jogos. Partindo destes, foi-nos possível realizar tanto a sua **análise exploratória** como a respetiva **feature engineering**. 
+
+Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
+
 
 ## Pré-Requisitos
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
