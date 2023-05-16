@@ -3,7 +3,7 @@
 ## Introdução - Formulação do Problema
 Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletrónicos**, torna-se importante, para uma empresa, **prever** o sucesso adjacente ao lançamento do seu produto no mercado. Um dos principais aspetos a ter em conta nesta previsão são as **reviews dos consumidores**. Deste modo, obtém-se o seguinte **problema de classificação**: 
 
-`Qual o user_rating do vídeo jogo?`
+>**<div align="center">Qual o user_rating do vídeo jogo?</div>**
 
 ## Pré-Requisitos
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
@@ -11,9 +11,7 @@ De forma a compilar e executar o programa são necessários vários pré-requiit
 - Instalação de múltiplas Livrarias: **[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)**, **[Numpy](https://numpy.org/install/)**, **[MatpltLib](https://matplotlib.org/stable/users/installing/index.html)**, **[Seaborn](https://seaborn.pydata.org/installing.html)** e **[Scikit-Learn](https://scikit-learn.org/stable/install.html)**
 
 ## Compilação e Execução
-De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o comando: 
-
- `jupyter notebook`
+De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o comando:  `jupyter notebook`
  
 Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e colar num separador web:
  
