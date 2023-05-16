@@ -6,8 +6,9 @@ Por fim, este jogo dispõe de vários níveis de dificuldade de forma a estimula
 
 ## Pré-Requisitos
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
-- Instalação de múltiplas Livrarias: **[Pygame](https://www.pygame.org/wiki/GettingStarted)**
-- Versão do Python compatível com a livraria **Pygame**
+- Utilização da Plataforma Anaconda (Distribuição de Python e R)
+- Instalação de múltiplas Livrarias: **[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)**, **[Numpy](https://numpy.org/install/)**, **[MatpltLib](https://matplotlib.org/stable/users/installing/index.html)**, **[Seaborn](https://seaborn.pydata.org/installing.html)** e **[Scikit-Learn](https://scikit-learn.org/stable/install.html)**
+- Versão do Python compatível com estas Livrarias
 
 ## Compilação e Execução
 De forma a compilar e executar o programa, basta executar o seguinte comando no seu terminal: 
