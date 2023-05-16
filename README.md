@@ -34,7 +34,7 @@ Por fim, se o problema persistir não hesite em **[contactar-nos](#consideraçõ
 
 ## Resolução do Problema
 
-De forma a resolvê-lo, foi-nos fornecido um **dataset** com dados de cerca de 6000 video jogos. Partindo destes, foi-nos possível realizar tanto a sua **análise exploratória** como a respetiva **feature engineering**. 
+De forma a dar resposta ao **Problema**, foi-nos fornecido um **dataset** com dados de cerca de 6000 video jogos. Partindo destes, foi-nos possível realizar tanto a sua **análise exploratória** como a respetiva **feature engineering**. 
 
 Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
 
