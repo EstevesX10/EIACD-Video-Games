@@ -21,8 +21,12 @@ Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e col
 </div>
 
 Desta forma, terá de aceder ao diretório onde o ficheiro está armazenado. Neste, deve selecioná-lo de forma abri-lo.
-De seguida de forma a executar as várias células presentes no documento, poderá executar ```Shift + Enter``` com o intuito de corrê-las de forma sequencial. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** visto disporem de uma panóplia de ações para a manipulação do fluxo de execução do programa.
- 
+De seguida de forma a executar as várias células presentes no documento, poderá executar ```Shift + Enter``` com o intuito de corrê-las de forma sequencial. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** dado proporcionarem uma panóplia de ações sobre a manipulação do fluxo de execução do programa.
+
+<div align="center">
+    <img src="Images/Jupyter_Notebook_UI.png">
+</div>
+
 Caso esteja com dificuldades, verifique que possui todos os pré-requisitos mencionados **[anteriormente](#pré-requisitos)** e tente novamente. 
 Por fim, se o problema persistir não hesite em **[contactar-nos](#considerações-finais)**.
 
