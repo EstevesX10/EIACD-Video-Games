@@ -1,4 +1,4 @@
-# EIACD Grupo D - Video Games
+# EIACD | Grupo D - Video Games
 
 ## Introdução
 Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletrónicos**, torna-se importante, para uma empresa, **prever** o sucesso adjacente ao lançamento do seu produto no mercado. Um dos principais aspetos a ter em conta nesta previsão são as **reviews dos consumidores**. Deste modo, obtém-se o seguinte **problema de classificação**: 
