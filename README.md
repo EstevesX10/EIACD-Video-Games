@@ -3,7 +3,7 @@
 ## Introdução - Formulação do Problema
 Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletrónicos**, torna-se importante, para uma empresa, **prever** o sucesso adjacente ao lançamento do seu produto no mercado. Um dos principais aspetos a ter em conta nesta previsão são as **reviews dos consumidores**. Deste modo, obtém-se o seguinte **problema de classificação**: 
 
-```Qual o user_rating do vídeo jogo?```
+`Qual o user_rating do vídeo jogo?`
 
 ## Pré-Requisitos
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
@@ -13,7 +13,7 @@ De forma a compilar e executar o programa são necessários vários pré-requiit
 ## Compilação e Execução
 De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o comando: 
 
- ```jupyter notebook```
+ `jupyter notebook`
  
 Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e colar num separador web:
  
@@ -23,7 +23,7 @@ Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e col
 
 Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazenado. Neste, deve selecioná-lo de forma abri-lo.
 
-De seguida de forma a executar as várias **células** presentes no documento, poderá executar ```Shift + Enter``` com o intuito de corrê-las de **forma sequencial**. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** dado proporcionarem uma panóplia de ações sobre a manipulação do **fluxo de execução do programa**.
+De seguida de forma a executar as várias **células** presentes no documento, poderá executar `Shift + Enter` com o intuito de corrê-las de **forma sequencial**. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** dado proporcionarem uma panóplia de ações sobre a manipulação do **fluxo de execução do programa**.
 
 <div align="center">
     <img src="Images/Jupyter_Notebook_UI.png">
