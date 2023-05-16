@@ -1,14 +1,9 @@
 # EIACD | Grupo D - Video Games
 
-## Introdução
+## Introdução - Formulação do Problema
 Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletrónicos**, torna-se importante, para uma empresa, **prever** o sucesso adjacente ao lançamento do seu produto no mercado. Um dos principais aspetos a ter em conta nesta previsão são as **reviews dos consumidores**. Deste modo, obtém-se o seguinte **problema de classificação**: 
 
 ```Qual o user_rating do vídeo jogo?```
-
-De forma a resolvê-lo, foi-nos fornecido um **dataset** com dados de cerca de 6000 video jogos. Partindo destes, foi-nos possível realizar tanto a sua **análise exploratória** como a respetiva **feature engineering**. 
-
-Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
-
 
 ## Pré-Requisitos
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
@@ -37,7 +32,11 @@ De seguida de forma a executar as várias **células** presentes no documento, p
 Caso esteja com **dificuldades**, verifique que possui todos os pré-requisitos mencionados **[anteriormente](#pré-requisitos)** e tente novamente. 
 Por fim, se o problema persistir não hesite em **[contactar-nos](#considerações-finais)**.
 
-## XXX
+## Resolução do Problema
+
+De forma a resolvê-lo, foi-nos fornecido um **dataset** com dados de cerca de 6000 video jogos. Partindo destes, foi-nos possível realizar tanto a sua **análise exploratória** como a respetiva **feature engineering**. 
+
+Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
 
 ## Considerações Finais
 Se existir alguma **dificuldade** no download ou execução do ficheiro não hesite em contactar-nos:
