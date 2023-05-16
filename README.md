@@ -8,12 +8,19 @@ Por fim, este jogo dispõe de vários níveis de dificuldade de forma a estimula
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
 - Utilização da Plataforma Anaconda (Distribuição de Python e R)
 - Instalação de múltiplas Livrarias: **[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)**, **[Numpy](https://numpy.org/install/)**, **[MatpltLib](https://matplotlib.org/stable/users/installing/index.html)**, **[Seaborn](https://seaborn.pydata.org/installing.html)** e **[Scikit-Learn](https://scikit-learn.org/stable/install.html)**
-- Versão do Python compatível com estas Livrarias
 
 ## Compilação e Execução
-De forma a compilar e executar o programa, basta executar o seguinte comando no seu terminal: 
+De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o seguinte comando: 
 
- ```python Game.py```
+ ```jupyter notebook```
+ 
+ Após a execução deste comando deverá copiar o URL (exemplo abaixo) e colar num separador web:
+ 
+<!-- <div align="center">
+    <img src="Images_Read_Me/Level_Buttons.png">
+</div> -->
+
+ Posteriormente, deverá aceder ao diretório em que o ficheiro está armazenado e, portantom, abri-lo.
  
 Caso não funcione, verifique que possui todos os pré-requisitos mencionados **[anteriormente](#pré-requisitos)** e tente novamente. 
 Se o problema se mantiver, tente executar o seguinte comando no seu terminal:
@@ -24,10 +31,6 @@ Se o problema se mantiver, tente executar o seguinte comando no seu terminal:
 
 ## XXX
 
-
-<!-- <div align="center">
-    <img src="Images_Read_Me/Level_Buttons.png">
-</div> -->
 
 ## Considerações Finais
 Se existir alguma **dificuldade** no download ou execução do ficheiro não hesite em contactar-nos:
