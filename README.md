@@ -12,7 +12,7 @@ Por fim, após esta manipulação e tratamento de dados, apenas resta criar um *
 
 ## Pré-Requisitos
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
-- Utilização da Plataforma Anaconda (Distribuição de Python e R)
+- Utilização da Plataforma **[Anaconda](https://www.anaconda.com/)** (Distribuição de Python e R)
 - Instalação de múltiplas Livrarias: **[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)**, **[Numpy](https://numpy.org/install/)**, **[MatpltLib](https://matplotlib.org/stable/users/installing/index.html)**, **[Seaborn](https://seaborn.pydata.org/installing.html)** e **[Scikit-Learn](https://scikit-learn.org/stable/install.html)**
 
 ## Compilação e Execução
