@@ -9,8 +9,14 @@ Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletró
 
 ## Pré-Requisitos
 De forma a compilar e executar o programa são necessários vários pré-requiitos:
-- Utilização da Plataforma **[Anaconda](https://www.anaconda.com/)** (Distribuição de Python e R)
-- Instalação de múltiplas Livrarias: **[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)**, **[Numpy](https://numpy.org/install/)**, **[MatpltLib](https://matplotlib.org/stable/users/installing/index.html)**, **[Seaborn](https://seaborn.pydata.org/installing.html)** e **[Scikit-Learn](https://scikit-learn.org/stable/install.html)**
+- **[Anaconda](https://www.anaconda.com/)** (Distribuição de Python e R)
+- **[Bibliotecas Python](#bibliotecas-python)** (**[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)**, **[Numpy](https://numpy.org/install/)**, **[MatpltLib](https://matplotlib.org/stable/users/installing/index.html)**, **[Seaborn](https://seaborn.pydata.org/installing.html)** e **[Scikit-Learn](https://scikit-learn.org/stable/install.html)**)
+
+### Bibliotecas Python
+
+Assim, de forma a instalar as bibliotecas necessárias basta executar o **comando** no terminal **Anaconda**:
+
+    pip install -r requirements.txt
 
 ## Compilação e Execução
 De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o comando:  
