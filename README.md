@@ -2,22 +2,24 @@
     img{
         border-radius:10px;
         box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        width:80%;
+        margin-top: 5px;
     }
 </style>
 
 <div align="center">
-    <h1>EIACD | Grupo D - Video Games</h1>
+    <h1>EIACD | Video Games</h1>
 </div>
 
 ## Formulação do Problema
 Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletrónicos**, torna-se importante, para uma empresa, **prever** o sucesso adjacente ao lançamento do seu produto no mercado. Um dos principais aspetos a ter em conta nesta previsão são as **reviews dos consumidores**. Deste modo, obtém-se o seguinte **problema de classificação**: 
 
->**<div align="center">Qual o user_rating do vídeo jogo?</div>**
-
+>**<div align="center" style="font-size:17px;">
+    Qual o user_rating do vídeo jogo?
+    </div>**
 
 <div align="center">
-    <img src="./Video Games/Assets/README/TheLastOfUs.jpg"
-    width="700">
+    <img src="./Video Games/Assets/README/GodOfWar.jpg">
 </div>
 
 ## Pré-Requisitos
@@ -35,11 +37,12 @@ Assim, de forma a instalar as bibliotecas necessárias basta executar o **comand
 De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o comando:  
 
     jupyter notebook
- 
+
 Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e colar num separador web:
  
 <div align="center">
-    <img src="./Video Games/Assets/README/Anaconda_Prompt_URL.png">
+    <img src="./Video Games/Assets/README/Anaconda_Prompt_URL.png"
+    style="margin-bottom: 10px;">
 </div>
 
 Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazenado. Neste, deve selecioná-lo de forma abri-lo.
@@ -62,7 +65,8 @@ De forma a dar resposta ao **Problema**, foi-nos fornecido um **dataset** com da
 Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
 
 <div align="center">
-    <img src="./Video Games/Assets/README/GodOfWar.jpg">
+    <img src="./Video Games/Assets/README/TheLastOfUs.jpg"
+    style="width:700 !important;">
 </div>
 
 # Considerações Finais
