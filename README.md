@@ -7,10 +7,11 @@ Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletró
 
 >**<div align="center">Qual o user_rating do vídeo jogo?</div>**
 
-<br/>
 
 <div align="center">
-    <img src="./Video Games/Assets/README/GodOfWar.jpg">
+    <img src="./Video Games/Assets/README/TheLastOfUs.jpg"
+    width="700"
+    style="border-radius:10px; box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);">
 </div>
 
 ## Pré-Requisitos
@@ -40,8 +41,10 @@ Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazen
 De seguida de forma a executar as várias **células** presentes no documento, poderá executar `Shift + Enter` com o intuito de corrê-las de **forma sequencial**. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** dado proporcionarem uma panóplia de ações sobre a manipulação do **fluxo de execução do programa**.
 
 <div align="center">
-    <img src="./Video Games/Assets/README/Jupyter_Notebook_UI.png">
+    <img src="./Video Games/Assets/README/Jupyter_Notebook_UI.png" style="border-radius: 8px;">
 </div>
+
+<br/>
 
 Caso esteja com **dificuldades**, verifique que possui todos os pré-requisitos mencionados **[anteriormente](#pré-requisitos)** e tente novamente. 
 Por fim, se o problema persistir não hesite em **[contactar-nos](#considerações-finais)**.
@@ -53,7 +56,7 @@ De forma a dar resposta ao **Problema**, foi-nos fornecido um **dataset** com da
 Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
 
 <div align="center">
-    <img src="./Video Games/Assets/README/GodOfWar.jpg">
+    <img src="./Video Games/Assets/README/GodOfWar.jpg" style="border-radius: 8px; box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);">
 </div>
 
 # Considerações Finais
