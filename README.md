@@ -1,3 +1,10 @@
+<style>
+    img{
+        border-radius:10px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    }
+</style>
+
 <div align="center">
     <h1>EIACD | Grupo D - Video Games</h1>
 </div>
@@ -10,8 +17,7 @@ Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletró
 
 <div align="center">
     <img src="./Video Games/Assets/README/TheLastOfUs.jpg"
-    width="700"
-    style="border-radius:10px; box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);">
+    width="700">
 </div>
 
 ## Pré-Requisitos
@@ -41,7 +47,7 @@ Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazen
 De seguida de forma a executar as várias **células** presentes no documento, poderá executar `Shift + Enter` com o intuito de corrê-las de **forma sequencial**. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** dado proporcionarem uma panóplia de ações sobre a manipulação do **fluxo de execução do programa**.
 
 <div align="center">
-    <img src="./Video Games/Assets/README/Jupyter_Notebook_UI.png" style="border-radius: 8px;">
+    <img src="./Video Games/Assets/README/Jupyter_Notebook_UI.png">
 </div>
 
 <br/>
@@ -56,7 +62,7 @@ De forma a dar resposta ao **Problema**, foi-nos fornecido um **dataset** com da
 Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
 
 <div align="center">
-    <img src="./Video Games/Assets/README/GodOfWar.jpg" style="border-radius: 8px; box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);">
+    <img src="./Video Games/Assets/README/GodOfWar.jpg">
 </div>
 
 # Considerações Finais
