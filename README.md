@@ -1,12 +1,3 @@
-<style>
-    img{
-        border-radius:10px;
-        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-        width:80%;
-        margin-top: 5px;
-    }
-</style>
-
 <div align="center">
     <h1>EIACD | Video Games</h1>
 </div>
@@ -19,7 +10,12 @@ Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletró
     </div>**
 
 <div align="center">
-    <img src="./Video Games/Assets/README/GodOfWar.jpg">
+    <img src="./Video Games/Assets/README/GodOfWar.jpg"
+    style=" 
+        border-radius:10px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        width:80%;
+        margin-top: 5px;">
 </div>
 
 ## Pré-Requisitos
@@ -42,7 +38,12 @@ Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e col
  
 <div align="center">
     <img src="./Video Games/Assets/README/Anaconda_Prompt_URL.png"
-    style="margin-bottom: 10px;">
+    style=" 
+        border-radius:10px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        width:80%;
+        margin-top: 5px;
+        margin-bottom: 10px;">
 </div>
 
 Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazenado. Neste, deve selecioná-lo de forma abri-lo.
@@ -50,7 +51,12 @@ Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazen
 De seguida de forma a executar as várias **células** presentes no documento, poderá executar `Shift + Enter` com o intuito de corrê-las de **forma sequencial**. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** dado proporcionarem uma panóplia de ações sobre a manipulação do **fluxo de execução do programa**.
 
 <div align="center">
-    <img src="./Video Games/Assets/README/Jupyter_Notebook_UI.png">
+    <img src="./Video Games/Assets/README/Jupyter_Notebook_UI.png"
+    style="
+        border-radius:10px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        width:80%;
+        margin-top: 5px;">
 </div>
 
 <br/>
@@ -66,7 +72,11 @@ Por fim, após esta manipulação e tratamento de dados, apenas resta criar um *
 
 <div align="center">
     <img src="./Video Games/Assets/README/TheLastOfUs.jpg"
-    style="width:700 !important;">
+    style="
+        border-radius:10px;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        margin-top: 5px;
+        width:700;">
 </div>
 
 # Considerações Finais
