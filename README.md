@@ -9,6 +9,8 @@ Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletró
     Qual o user_rating do vídeo jogo?
     </div>**
 
+<br/>
+
 <div align="center">
     <img src="./Video Games/Assets/README/GodOfWar.jpg">
 </div>
@@ -53,6 +55,8 @@ Por fim, se o problema persistir não hesite em **[contactar-nos](#consideraçõ
 De forma a dar resposta ao **Problema**, foi-nos fornecido um **dataset** com dados de cerca de 6000 video jogos. Partindo destes, foi-nos possível realizar tanto a sua **análise exploratória** como a respetiva **feature engineering**. 
 
 Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
+
+<br/>
 
 <div align="center">
     <img src="./Video Games/Assets/README/TheLastOfUs.jpg">
