@@ -11,12 +11,14 @@ De forma a compilar e executar o programa são necessários vários pré-requiit
 - Instalação de múltiplas Livrarias: **[Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)**, **[Numpy](https://numpy.org/install/)**, **[MatpltLib](https://matplotlib.org/stable/users/installing/index.html)**, **[Seaborn](https://seaborn.pydata.org/installing.html)** e **[Scikit-Learn](https://scikit-learn.org/stable/install.html)**
 
 ## Compilação e Execução
-De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o comando:  `jupyter notebook`
+De forma a compilar e executar o ficheiro, será necessário aceder à Anaconda Prompt e executar o comando:  
+
+    jupyter notebook
  
 Após a execução deste comando deverá copiar o **URL** (exemplo abaixo) e colar num separador web:
  
 <div align="center">
-    <img src="Images/Anaconda_Prompt_URL.png">
+    <img src="./Assets/Anaconda_Prompt_URL.png">
 </div>
 
 Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazenado. Neste, deve selecioná-lo de forma abri-lo.
@@ -24,7 +26,7 @@ Desta forma, terá de aceder ao **diretório** onde o **ficheiro** está armazen
 De seguida de forma a executar as várias **células** presentes no documento, poderá executar `Shift + Enter` com o intuito de corrê-las de **forma sequencial**. Analogamente, poderá recorrer aos múltiplos botões presentes na interface gráfica do **jupyter notebook** dado proporcionarem uma panóplia de ações sobre a manipulação do **fluxo de execução do programa**.
 
 <div align="center">
-    <img src="Images/Jupyter_Notebook_UI.png">
+    <img src="./Assets/Jupyter_Notebook_UI.png">
 </div>
 
 Caso esteja com **dificuldades**, verifique que possui todos os pré-requisitos mencionados **[anteriormente](#pré-requisitos)** e tente novamente. 
