@@ -1,6 +1,8 @@
-# EIACD | Grupo D - Video Games
+<div align="center">
+    <h1>EIACD | Grupo D - Video Games</h1>
+</div>
 
-## Introdução - Formulação do Problema
+## Introdução [Formulação do Problema]
 Atualmente, dada a elevada **competitividade** na indústria dos **jogos eletrónicos**, torna-se importante, para uma empresa, **prever** o sucesso adjacente ao lançamento do seu produto no mercado. Um dos principais aspetos a ter em conta nesta previsão são as **reviews dos consumidores**. Deste modo, obtém-se o seguinte **problema de classificação**: 
 
 >**<div align="center">Qual o user_rating do vídeo jogo?</div>**
@@ -38,8 +40,9 @@ De forma a dar resposta ao **Problema**, foi-nos fornecido um **dataset** com da
 
 Por fim, após esta manipulação e tratamento de dados, apenas resta criar um **modelo preditivo** capaz de classificar qualquer vídeo jogo e avaliar a sua **performance**.
 
-## Considerações Finais
-Se existir alguma **dificuldade** no download ou execução do ficheiro não hesite em contactar-nos:
+# Considerações Finais
+
+Se existir alguma **dificuldade** no download ou execução da aplicação não hesite em contactar-nos:
 - **Via email**: 
-    - Gonçalo Esteves: up202203947@up.pt 
-    - Nuno Gomes: up202206195@up.pt
+    - [Gonçalo Esteves](https://github.com/EstevesX10) - `up202203947@up.pt`
+    - [Nuno Gomes](https://github.com/NightF0x26) - `up202206195@up.pt`
