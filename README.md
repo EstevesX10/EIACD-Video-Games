@@ -3,7 +3,7 @@
 </div>
 
 <p align="center" width="100%">
-    <img src="./Video Games/Assets/README/NintendoController.gif" width="40%" height="40%" />
+    <img src="./Video Games/Assets/README/NintendoController.gif" width="40%" />
 </p>
 
 <div align="center">
